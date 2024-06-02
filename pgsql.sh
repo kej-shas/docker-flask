@@ -1,0 +1,1 @@
+docker run -p 5432:5432 --name postgres -e POSTGRES_PASSWORD=dirtydan -v C:/Users/jjss/code/postgres:/var/lib/postgresql/data -d postgres
